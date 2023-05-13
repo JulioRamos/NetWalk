@@ -1,2 +1,2 @@
 # NetWalk
-Implementing a simple version of thge NetWalk game in Python\PyGame
+Implementing a simple version of the NetWalk game in Python\PyGame
